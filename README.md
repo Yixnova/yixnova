@@ -2,7 +2,7 @@
 
 ###
 ![indir (1)](https://github.com/Yixnova/yixnova/assets/125765283/d089a133-c4b2-4136-9e74-02df3cb89f6f)
-<h4 align="center">To briefly introduce myself, I am making great efforts to improve myself in many fields, especially technology, software, robotic coding, artificial intelligence, space sciences, aviation, and physics.</h4>
+<h4 align="center">I just love create and develop.</h4>
 
 ###
 
