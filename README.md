@@ -3,7 +3,7 @@
 │ yixnova *                                                                      IST 00:00 │
 │                                                                                NYC 17:00 │
 │                                                                                          │
-│ WORK[9]                            BACKROOMS↗                                   CONNECT↗ │
+│ WORK[09]                            BACKROOMS↗                                  CONNECT↗ │
 ├──────────────────────────────────────────────────────────────────────────────────────────┤
 │                                                                                          │
 │ YİĞİT R. ŞAHİN / SOFTWARE DEVELOPER                                                      │
