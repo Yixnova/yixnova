@@ -1,19 +1,7 @@
 <div align="center">
 
-<pre>
-╭─────────────────────────────────────────────────────────────────────────────────────────────────────╮
-│  1   1  01010  1   1  0   0   010   0   0   010           yixnova@github                            │
-│  0   0    1    0   0  10  1  0   0  1   1  0   0          ------------------------------            │
-│   0 0     0     0 0   0 0 0  1   1  0   0  1   1          OS       : macOS / iOS                    │
-│    0      1      0    1 1 1  0   0  1   1  01010          Role     : Software Developer             │
-│    1      0     0 0   0  10  1   1  0   0  1   1          Focus    : Web • iOS • Software           │
-│    0      1    0   0  1   1  0   0   0 0   0   0          Stack    : Swift • C • Web                │
-│    1    01010  1   1  0   0   010     0    1   1          Status   : building from 0 & 1            │
-│                                                                                                     │
-│                                            <a href="https://yixnova.com">yixnova.com ↗</a>                                            │
-│                                                                                                     │
-│                    01011001 01001001 01011000 01001110 01001111 01010110 01000001                   │
-╰─────────────────────────────────────────────────────────────────────────────────────────────────────╯
-</pre>
+<a href="https://yixnova.com">
+  <img src="./assets/yixnova-terminal.svg" alt="Yixnova — Software Developer" width="100%" />
+</a>
 
 </div>
