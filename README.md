@@ -3,7 +3,7 @@
 │ yixnova *                                                                 ISTANBUL 00:00 │
 │                                                                     WASHINGTON, DC 12:00 │
 │                                                                                          │
-│ WORK                            BACKROOMS                                      CONNECT   │
+│ WORK[9]                            BACKROOMS↗                                 CONNECT↗   │
 ├──────────────────────────────────────────────────────────────────────────────────────────┤
 │                                                                                          │
 │ YİĞİT R. ŞAHİN / SOFTWARE DEVELOPER                                                      │
