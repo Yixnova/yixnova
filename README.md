@@ -1,5 +1,17 @@
-###
+<div align="center">
 
-<h4 align="center">yixnova.com</h4>
+<a href="https://yixnova.com" target="_blank">
+  <img
+    src="./assets/yixnova-preview.png"
+    alt="yixnova.com"
+    width="100%"
+  />
+</a>
 
-###
+<br>
+
+<a href="https://yixnova.com">
+  <strong>OPEN YIXNOVA.COM ↗</strong>
+</a>
+
+</div>
